@@ -1,0 +1,1 @@
+super<?php /**PATH C:\xampp1\htdocs\stage_projet\reclamation\reclamation_stage\resources\views/supervisor/home.blade.php ENDPATH**/ ?>

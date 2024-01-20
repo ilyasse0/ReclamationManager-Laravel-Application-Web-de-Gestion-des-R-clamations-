@@ -1,0 +1,1 @@
+<h1>test</h1><?php /**PATH C:\xampp\htdocs\reclamation_stage\resources\views/partials/footer.blade.php ENDPATH**/ ?>
